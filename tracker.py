@@ -11,7 +11,7 @@ plt.rcParams.update({'font.size': 10})
 limit = 150
 
 # SPEED RECORD
-file = open("E://SDS//TrafficRecord//SpeedRecord.txt", "w")
+file = open("TrafficRecord/SpeedRecord.txt", "w")
 file.write("------------------------------\n")
 file.write("            REPORT            \n")
 file.write("------------------------------\n")
